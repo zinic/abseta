@@ -1,6 +1,6 @@
 # Abseta Magic Supplement
 
-Magic in Abseta is deeply arcane and logical. Practicing magic comes with significant danger to the agent and their
+Magic in Abseta is deeply arcane and logical. Authoring devices comes with significant danger to the agent and their
 surroundings.
 
 ## The Danger
@@ -62,8 +62,9 @@ scale of complexity and therefore storage that such devices require.
 
 > The ground beneath your feet is alive in more ways than you could ever imagine.
 
-Magic pulls from the substrate to bend the rules of the simulation. The substrate is a simulation subsystem built from
-complex API surfaces. The substrate is redundant and fault-tolerant.
+Devices influence the substrate to bend the rules of the simulation. The substrate is a simulation subsystem built from
+complex API surfaces. The substrate is redundant and fault-tolerant in the extreme. There is no state of the simulation
+that could irreparably damage the substrate. 
 
 ## The Hypervisor
 
@@ -75,7 +76,7 @@ hypervisor is to perform as little work as possible when applying corrections. W
 non-optimal outcomes for simulation agents, the complexity of the hypervisor must not exceed the simulation itself.
 
 The hypervisor has no agent or persona. It is as a part of the physical reality of the simulation as any other of its
-physical rules.
+physical rules. The hypervisor can not be influenced or accessed by agents or any known agent devices.
 
 While designed to be as minimal and simple as possible, the hypervisor, like the simulation, is still a running part of
 the substrate. Strange, wide-scale unexpected conditions may reveal defects in the hypervisor's devices. The
@@ -100,14 +101,6 @@ Unlike simpler systems that have no built-in fault-tolerant hypervisors, the sub
 resilient to total system failures. Runaway failures may cause significant changes or damage to Abseta itself but there
 are no failure conditions that can fatally damage the simulation.
 
-### Simulation Guardrails
-
-> But there's always a backdoor.
-
-The simulation is protected by a system called the hypervisor. Invisible to the simulation and its state, the hypervisor
-is responsible for sustaining the execution of the simulation. The hypervisor can not be influenced or accessed by
-agents or agent devices.
-
 ### Scale of Complexity
 
 > Greater complexity leads to greater consequences.
@@ -126,12 +119,13 @@ Unless fault-tolerant itself, most devices will not survive normal state changes
 Devices left unfinished may remain dangerous for some time. However, given enough time, the normal ebb and flow of the
 substrate will render all unfinished or unused devices inoperable.
 
-### Shifting Substrate
+## Shifting Substrate
 
 > The only constant in Abseta is change.
 
 The substrate is not static. Devices that may have worked for hundreds of years can fail without explanation. Further
-still, inoperable devices may become functional once more given enough time.
+still, inoperable devices may become functional once more given enough time. Devices may also accumulate changes that
+modulate their behavior in unexpected ways.
 
 The average lifetime of a device however is normally measured in centuries.
 
@@ -140,8 +134,15 @@ The average lifetime of a device however is normally measured in centuries.
 > If a tree falls in the forest, does it make a sound? Well, it depends.
 
 The substrate does not compute all possibilities because it does not need to. The substrate has significant computing
-resources at its disposal: it may perform bayesian updates all parameters of the simulation. However, this comes at an
-equally significant energy expenditure to perform. As such, the substrate and simulation hypervisor
+resources at its disposal: it may perform bayesian updates to all parameters of the simulation. However, this comes at
+the cost of an equally significant energy expenditure. As such, the substrate and hypervisor will often resort to
+in-simulation shortcuts to save on computational requirements.
+
+These optimizations are usually limited to properties of the simulation not directly subject to agent observation. If
+no agent is actively observing a property of the simulation then the substrate will choose to lower the simulated
+fidelity of said property. This may, over large time scales, lead to inconsistencies that require correction either
+from the substrate or hypervisor. These corrections are imperceptible but can result in state changes that modify or
+otherwise render devices unstable or irreparably disabled.
 
 ### Substrate Echos
 
