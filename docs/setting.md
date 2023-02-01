@@ -104,6 +104,8 @@ Abdica contains a diverse array of agent cultures and species.
 
 ### Dominant Cultures
 
+####
+
 ### Relevant Subcultures
 
 ### Agent Species
@@ -113,120 +115,242 @@ Abdica contains a diverse array of agent cultures and species.
 Abdica contains roughly 10,000 years of historical information that has been passed down by various species that exist
 within the Primary Plane.
 
-### Previous Eras
+## Previous Eras
 
-#### The First Era
+### The First Era
 
 0sp - 4200sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
 * Cortu Azalean
 * Amas Altu
 * Thorza Altu
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * The First Devices
 * The First Correction
 
-#### The Uplift
+### The Uplift
 
 4200sp - 5350sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
 * Kami Ritus
 
-##### Noteworthy Events
+#### Noteworthy Events
 
-* The First Schematic
+#### The First Schematic
 
-#### First Collapse
+The first schematic was a geological device designed to halt the Hulut volcano. The active volcano was chosen due to the
+remote and uninhabited nature of its location. The experiment was lead by Kami Ritus, a Therai guild conductor. It was
+said that Kemas had a savant-like ability when it came to creating devices of staggering complexity.
+
+The schematic was stored in two large scrolls that together would require four individuals to open due to their length.
+It was Kami's job to invoke the schema laid before her at the base of the volcano. Upon invocation, the heat of the
+volcano bled from the rock and earth below. Frost quickly gathered on the rim of the volcano's cone. Within minutes the
+constant churning of the magma below had been quelled.
+
+#### Inception of the Uplifted Trade Guilds
+
+Driven by more and more applications for larger and more complex schemas, conductors from the four major factions build
+small empires for themselves modeled after the trade guilds from the ill-fated first age.
+
+##### Therai Guild
+
+Prior to the inception of the uplifted trade guilds, the Therai had already made a name for themselves as an adaptable
+culture adept at moving and procuring information. They were one of the first cultures to resume the old ways. Spending
+a great deal of time deciphering ancient scripts recovered from the first age.
+
+##### Tor Guild
+
+The Tor guild comprises a conglomerate of smaller trade companies that operate in cooperation. The Tor were late to
+developing more advanced devices and schematics. As such they spend much of the end of the first age in pursuit of
+expanding their manufacturing capacity.
+
+##### Metricos Guild
+
+Worshipers of Metricos.
+
+Lots of research into devices designed to aid in the growth of food crops. Due to the dominance of the other
+guilds, the Metricos relinquished their paltry presence to focus on device designs. Despite leaving the trade domain,
+the Metricos ship more cargo across the Ortu than any other guild. As such they have maintained much of their political
+power while exiting the power struggle maintained between the other three.
+
+##### The Mal Ortu
+
+The weirdos and whiz kids. Stupid crazy schemas. Reclusive.
+
+### First Collapse
 
 5348sp - 5451sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
 * Amiara Thera
 * Polsen Tor
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * The Therai Correction Plot
 * The Therai War
 * The First Collapse
 
-#### The Long Dark
+#### Raid of Torvokos
+
+The rise of Therai designs and advances during this era is directly tied to the completion of one of the largest design
+colleges: Torvokos. The college was erected along the outskirts of a sister town named Thrask in the central lowlands of
+Cortu Amas.
+
+Late in the 5348th solar pass a group of 30, expertly trained, military controllers raided the college late at night.
+All academics in the college were quickly slaughtered. Those with expertise in designs were longer lived but no match
+for the raiders. The buildings of the college were pillaged of anything of or relating to in-progress scripts and
+schematics.
+
+Investigations into the raid pointed originally to agents of The Mal Ortu but there remained no direct evidence that
+could otherwise identify the perpetrators. The next advancement in the investigation wasn't until roughly a year after
+a new advancement in Tor production capacity was traced back to a stolen schematic from Torvokos. Still unable to prove
+further connection, this realization lead to public scandal and accusations left unresolved.
+
+The primary result of the public nature of the fallout was a lingering and potent hatred of the Tor guild amongst the
+Therai leaders. It would be decades before this festering wound would lead to a seething for revenge too strong to
+ignore any longer.
+
+Although the college was recovered and returned to its prior state after a 10 year-long restoration, Torvokos never
+returned to his previous height as a venerated academic establishment.
+
+#### The Therai Correction Plot
+
+The Tor guild is now a well established ocean trade venture that has become the defacto means of transportation across
+the Ortu ocean. While last of the four guilds to begin their own research into more advanced devices instead of
+purchasing them this allowed the Tor to pick ideas from the best implementations already in use. Many of their advances
+increased the speed and efficiency of their production and transport capacity. The Tor's rise in trade dominance came at
+the cost of their long-time rival, the Therai guild.
+
+Transgressions from the Uplift Era and the loss of the Therai guild's competitiveness in trade and transit operations
+lead to the eventual creation of the Correction Plot. This subversive plan was concocted in the highest echelon to
+cripple one of the largest ports along the coast of Faena. The objective was to use a Mal Ortu contracted ship to sail
+one of the Therai's most dedicated conductors to Tol Amas.
+
+Upon arrival, the conductor descended below decks to the cargo hold. Stored therein was a schematic designed to spiral
+out of control. The effects would be imperceptible at first as the device directed immense amounts of thermal energy
+into the water of the harbor. The water around the ship would begin to boil first. As the invoked device grew in power
+the coastline of the harbor city became enveloped by a cloud of superheated steam. Those closest to the coastline
+not sheltered from the cloud all perished within minutes.
+
+Water from the surrounding ocean poured in to fill the rapidly evaporating harbor. The wooden components of any harbor
+structure would catch fire next. This spread outward from the harbor and into the rest of the city, torching any
+flammable material while heating stone till it glowed. Those sheltered were roasted and burnt alive, leaving residents a
+grim choice between two gruesome deaths.
+
+The device burned outward at a staggering rate over the course of several hours. With most of the city already consumed
+by the intense heat there were no survivors remaining inside the city to witness the correction triggered by the out of
+control device. The resulting split of reality flattened a radius around the device's epicenter several miles in radius.
+Records of the event only exist from the perspective of far away ships watching as the city burned from a distance.
+
+#### The Therai War
+
+Despite the fact that there remained no evidence of what had happened to Tol Amas, the Tor held such sway that even if
+the Therai had not been responsible, the blame would still have found them. The Therai's willingness to use device
+correction as a weapon galvanized the other three guilds in opposition. It had been more than a thousand years since
+Abdica civilizations had witnessed a correction of this magnitude. The Tor demanded no less than two thirds of the
+Therai guild's assets in reparation.
+
+Pressure from the Metricos and the Mal Ortu was ineffective in swaying the entrenched Therai leaders. It was no secret
+given the unwillingness of the Therai to capitulate that war would be inevitable.
+
+The Therai use the big boom but are routed by Tor and Metricos guild controllers. They are tricked by The Mal Ortu to
+commit to a location that has an already active device and then pin the Therai detachment. Set a month before the
+Therai's arrival the Mal Ortu device interacts with the invocation of the Therai correction schematic, fatally. Before
+the inevitable correction, a radius measured in hundreds of miles is bathed in heat so intense that entire forrests are
+reduced to ash.
+
+The resulting correction required to stop the spiral was greater than any academic expectation. Tendrils of eerie violet
+energy arced across the scorched landscape, seeming to erupt from the ground itself. These immense threads of reality
+bending light stretched out across thousands of miles of Faena heartland to redirect and halt the combined device. The
+release of energy is so strong that it rips Faena up. Millions perish. Land becomes forever irradiated or otherwise
+tainted. Thousands of tons of fallout spew upwards into the sky from the mile deep trenches carved into the once verdant
+ground.
+
+The remaining forces of the united guilds topple the Therai and take over the guild house in their home city of Kokoria.
+This ends the lineage for the Therai guild.
+
+### The Long Dark
 
 5450sp - 7800sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * Disposal of the Conductor's Cabal
 * Meliai the Torn Land
 
-#### Assembly Era
+### Assembly Era
 
 7800sp - 8200sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * Disposal of the Conductor's Cabal
 * Rediscovery of Schematics
 
-#### Enlightened Era
+### Enlightened Era
 
 8200sp - 8300sp
 
-##### Noteworthy Agents
+Dominant Culture:
 
-##### Noteworthy Events
+The Enlightened Era builds upon the prior era in relearning large scale schematic writing.
+
+#### Noteworthy Agents
+
+#### Noteworthy Events
 
 * The Great Restoration
 
-#### The Void War
+### The Void War
 
 8300sp - 8327sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * Amiata Skyfall
 
-#### Reclamation Era
+### Reclamation Era
 
 8327sp - 8840sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * The Second Collapse
 
-#### Second Ruin
+### Second Ruin
 
 8840sp - 9100sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 * Treaty of Meliai
 * Establishment of the Moralian Abdica Conductor Council
 
-#### Convergence
+### Convergence
 
 9100sp - 9500sp
 
-##### Noteworthy Agents
+#### Noteworthy Agents
 
-##### Noteworthy Events
+#### Noteworthy Events
 
 ### Current Era
 

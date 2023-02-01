@@ -19,6 +19,10 @@ schematics. All magic, regardless of complexity is often colloquially referred t
 The ability to create devices requires a complex command of logic and deep mental discipline. Of the available
 population of agents in Abseta, roughly `0.5%` are capable of learning the skills required to manipulate the substrate.
 
+The ability to create devices is not inherent. It is assumed that some predisposition exists in genetic lines but there
+appears to be more nuance than just inherent ability. Most aspects of designing devices and writing scripts can be
+learned through brute force and discipline.
+
 ### Devices
 
 > A conjured flame is just as much a device as the great firestorms that conductors once wielded.
@@ -64,7 +68,7 @@ scale of complexity and therefore storage that such devices require.
 
 Devices influence the substrate to bend the rules of the simulation. The substrate is a simulation subsystem built from
 complex API surfaces. The substrate is redundant and fault-tolerant in the extreme. There is no state of the simulation
-that could irreparably damage the substrate. 
+that could irreparably damage the substrate.
 
 ## The Hypervisor
 
