@@ -75,6 +75,10 @@ Abdica comprises three continents separated by surface oceans.
 Once known as Therai, Thealia is the smallest of the three main landmasses. Thealia covers much of the North Pole of
 Abdica.
 
+#### Black Sand Desert
+
+A desert of black sand situated in the rain shadow of the Hulut mountain range.
+
 ### Cortu Amas
 
 *(Coor - too Ah-mahss)*
@@ -117,9 +121,9 @@ within the Primary Plane.
 
 ## Previous Eras
 
-### The First Era
+### Prehistory
 
-0sp - 4200sp
+0sp - 3800sp
 
 #### Noteworthy Agents
 
@@ -127,14 +131,76 @@ within the Primary Plane.
 * Amas Altu
 * Thorza Altu
 
-#### Noteworthy Events
+##### First Devices
 
-* The First Devices
-* The First Correction
+Cave people learn how to control fire with timed pelvic thrusts.
+
+##### Rise and Fall of Trade Guilds
+
+Civilization begins. Hyper tribalism and extremely ethnocentric cultures. Trade guilds clash. Hundreds of thousands die
+over land and trade disputes. Poor die, the rich become richer. Concentration of education and device crafting relegated
+to the privileged.
+
+Leads to uprising of common people. More hundreds of thousands are slaughtered by the first operators of the era.
+Numbers outweigh the operators however and eventually several of the trade guilds are outright dissolved. Much of the
+upper and ruling class are brutally slain in public displays of revolution.
+
+##### Societal Regulation of Devices
+
+### The First Era
+
+3800sp - 4224sp
+
+#### Noteworthy Agents
+
+* Elma Sarumir
+
+##### First Correction
+
+The history of the First Era is filled with runaway devices and their resulting corrections. Toward the end of the First
+Age much of the surface of Abdica had been scarred by corrections ranging from the loss of a single home or land plot
+all the way up to entire towns. No matter the danger of correction, civilization refused to temper its appetite for more
+complex and potent devices.
+
+Development of scripts necessitated the need for novel writing systems around 4000 sp. This enabled cultures to create
+and invoke far more intricate devices than ages prior.
+
+##### Ortu Cabal
+
+To wrangle potential correction fallout from this new class of complex devices, the most adept controllers from around
+Abdica congregate in Haluid the capital city of the Akama of Cortu Amas.
+
+This leads to a centralization of control of devices that spans all major land masses and cultures called the Ortu
+Cabal. This cabal of device invokers and scriptwriters sought to control both the usage and proliferation of complex
+devices. A secret and tightly guarded goal of the cabal was also to study how the physics of device corrections
+operate.
+
+The Ortu Cabal operated safely for roughly 200 passes, bringing to civilization great advances in both devices and
+technology. During the beginning for 4120 sp a routine test into correction physics was undertaken by a sect of the Ortu
+Cabal located in central Therai (presently Thealia) in a city called Osukla.
+
+Situated at the base of the Hulut range, Osukla benefited from its rather remote location as it was the only bastion of
+civilization and trade that existed along the edge of the Black Sand Desert. Osukla relied heavily on advanced devices
+and scripts to maintain its presence due to a lack of easily accessible fresh water.
+
+The correction experiment had been carried out by the Ortu Cabal regularly for years without significant issue. This
+test however was destined to be ill-fated. Spurred by advances in script complexity, several of the Ortu controllers
+present Vakuliya college had modified the parameters of the test in novel ways to explore attempts to contain or
+otherwise limit a device correction.
+
+The novel components of the test collapsed inward on and rapidly devolved into a runaway device the size of which had
+yet to exist on Abdica. The outpouring of reality distorting energies from the resulting correction shattered the Hulut
+mountain range. Worse still, the geological disturbance shattered a stable magma dome, leading to an eruption of the
+largest land feature in the range closest to the epicenter of the device correction.
+
+Both Osukla and Vakuliya college were wiped by the ensuing flood of magma and pyroclastic clouds. Thousands perished in
+mere hours and few survivors escaped the wrath of the device correction. The area near Osukla was rapidly abandoned with
+the newly christened Hulut volcano showing no signs of slowing. It would erupt slowly over the coming decades, rendering
+one of the few relatively habitable locations of the Black Desert otherwise uninhabitable.
 
 ### The Uplift
 
-4200sp - 5350sp
+4224sp - 5350sp
 
 #### Noteworthy Agents
 
@@ -194,7 +260,8 @@ The weirdos and whiz kids. Stupid crazy schemas. Reclusive.
 
 #### Noteworthy Events
 
-* The Therai Correction Plot
+* Raid of Torvokos
+* Therai Correction Plot
 * The Therai War
 * The First Collapse
 
@@ -285,7 +352,7 @@ This ends the lineage for the Therai guild.
 
 #### Noteworthy Events
 
-* Disposal of the Conductor's Cabal
+* Disposal of the Ortu Cabal
 * Meliai the Torn Land
 
 ### Assembly Era
