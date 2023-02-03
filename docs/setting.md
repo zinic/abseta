@@ -1,5 +1,7 @@
 # Setting
 
++135K
+
 Abseta is a small universe that exists within a simulation. The progenitors of the substrate are unknown.
 
 ## Universal Properties
@@ -108,6 +110,10 @@ Abdica contains a diverse array of agent cultures and species.
 
 ### Dominant Cultures
 
+#### Thealia
+
+Once known as Therai, Thealia is
+
 ####
 
 ### Relevant Subcultures
@@ -135,17 +141,37 @@ within the Primary Plane.
 
 Cave people learn how to control fire with timed pelvic thrusts.
 
-##### Rise and Fall of Trade Guilds
+##### Rise of Trade Guilds
 
-Civilization begins. Hyper tribalism and extremely ethnocentric cultures. Trade guilds clash. Hundreds of thousands die
-over land and trade disputes. Poor die, the rich become richer. Concentration of education and device crafting relegated
-to the privileged.
+Cave people now pelvic thrust on boats to trade goods with others.
 
-Leads to uprising of common people. More hundreds of thousands are slaughtered by the first operators of the era.
-Numbers outweigh the operators however and eventually several of the trade guilds are outright dissolved. Much of the
-upper and ruling class are brutally slain in public displays of revolution.
+##### Discovery of Scriptwriting
+
+Scriptwriting become well known to society in the later 1000 passes of the prehistoric era. It's estimated that sometime
+between 2800 sp and 3800 sp society all prominent cultures on Abdica produced writing systems for both natural language
+and script runes. Many cultures, having shared nothing during this era, produced highly compatible written systems for
+their natural languages.
+
+This convergence of written languages is known as the "scriptwriters' fingerprint." Device script must be written a very
+specific way. Every stroke, its order, the position of the runes had meaning. All device scripts, no matter the source
+culture are written using the same syntax as well. It's assumed that discovery of device script came before the
+development of natural language writing systems for all cultures that demonstrate convergence.
+
+Not all writing systems are common, however. There were many cultures that developed natural language writing first.
+However, by the beginning of the First Era, nearly every culture involved in trade with others had adopted the common
+natural language writing system derived from device script.
 
 ##### Societal Regulation of Devices
+
+Devices of significant complexity are difficult to learn and even more difficult to invoke. As such, it was highly
+unlikely that a device used by an agent would necessitate a device correction. The introduction of scriptwriting allowed
+early controllers the capacity needed to express far more complex device designs. More complex designs inevitably lead
+to device corrections.
+
+Scriptwriting was considered a punishable act for anyone but the most venerated and wisest of the tribes due to this
+new danger. Despite societal trepidation toward scriptwriting the advances that could come from it were too enticing. It
+wasn't uncommon for controllers to die while attempting to perfect a new script. Some device corrections of this era
+are documented from recovered script artifacts that show obvious defects in their design.
 
 ### The First Era
 
@@ -198,6 +224,22 @@ mere hours and few survivors escaped the wrath of the device correction. The are
 the newly christened Hulut volcano showing no signs of slowing. It would erupt slowly over the coming decades, rendering
 one of the few relatively habitable locations of the Black Desert otherwise uninhabitable.
 
+##### Abandonment of Scriptwriting
+
+In response to the events at Osukla, fearful that this kind of power could spiral out of control of the Ortu Cabal, they
+began a secret campaign against any well known controllers within their political reach. The controllers that joined the
+Ortu were spared and forced to secrecy about scriptwriting. Those that refused to yield to the Ortu were killed at best
+and enslaved at worst.
+
+Devices become more primitive over the coming century with no one to author new scripts. Most operators are still
+effective despite many nation states outright banning device use without some kind of license or registration for the
+purposes of alerting the Ortu.
+
+Device and technological advances slow while the Ortu devolves into splintered groups. In the remaining century or so
+before the beginning of the uplift, several Ortu derivatives begin to consolidate power more openly. Instead of waging
+wars, these new public faces of the ancient order take over manufacturing and trade. They use this immense concentration
+of economic power to assert their political will.
+
 ### The Uplift
 
 4224sp - 5350sp
@@ -227,8 +269,9 @@ small empires for themselves modeled after the trade guilds from the ill-fated f
 ##### Therai Guild
 
 Prior to the inception of the uplifted trade guilds, the Therai had already made a name for themselves as an adaptable
-culture adept at moving and procuring information. They were one of the first cultures to resume the old ways. Spending
-a great deal of time deciphering ancient scripts recovered from the first age.
+culture adept at moving and procuring information. They were one of the first cultures to resume the "old ways." The
+Therai have dedicated their existence to deciphering ancient scripts recovered from the first age. In many aspects the
+Therai are the most advanced of the four guilds that rose to dominance during the uplift.
 
 ##### Tor Guild
 
@@ -342,7 +385,7 @@ tainted. Thousands of tons of fallout spew upwards into the sky from the mile de
 ground.
 
 The remaining forces of the united guilds topple the Therai and take over the guild house in their home city of Kokoria.
-This ends the lineage for the Therai guild.
+This ends the lineage for the Therai guild and results in total occupation of Therai itself.
 
 ### The Long Dark
 
@@ -352,8 +395,8 @@ This ends the lineage for the Therai guild.
 
 #### Noteworthy Events
 
-* Disposal of the Ortu Cabal
 * Meliai the Torn Land
+* Disposal of the Requirements Ortu Cabal
 
 ### Assembly Era
 
