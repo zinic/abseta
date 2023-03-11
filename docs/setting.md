@@ -374,7 +374,7 @@ given the unwillingness of the Therai to capitulate that war would be inevitable
 The Therai use the big boom but are routed by Tor and Metricos guild controllers. They are tricked by The Mal Ortu to
 commit to a location that has an already active device and then pin the Therai detachment. Set a month before the
 Therai's arrival the Mal Ortu device interacts with the invocation of the Therai correction schematic, fatally. Before
-the inevitable correction, a radius measured in hundreds of miles is bathed in heat so intense that entire forrests are
+the inevitable correction, a radius measured in hundreds of miles is bathed in heat so intense that entire forests are
 reduced to ash.
 
 The resulting correction required to stop the spiral was greater than any academic expectation. Tendrils of eerie violet
