@@ -51,7 +51,7 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###                                                                                                    
+###                                                                                                         
 
 ### Setting Flavor
 
@@ -103,6 +103,16 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
 
 ## Syntactic Magic of Abseta
 
+### Tally and Threshold
+
+Thaumaturgey pg. 76
+
+Magic does not have an energy cost. Instead, magic has a power tally that must be tracked by the magic user.
+
+* All mages start with a power tally threshold of 30.
+* Mages recover their power tally threshold at 10 points per-day.
+* Magic items add to the caster's power tally but only when activated.
+
 ### Verbs
 
 * Create
@@ -128,7 +138,7 @@ novel uses may exist.
 
 #### \<Verb> Weak Force
 
-| **Energy Cost: 3**  |
+| **Tally Points: 3**  |
 |---------------------|
 | **Time to Cast: 2** |
 
@@ -149,7 +159,7 @@ Knowledge and use of this ability requires:
 
 #### \<Verb> Meta
 
-|**Energy Cost: 2**|
+|**Tally Points: 2**|
 |---|
 |**Time to Cast: 4**|
 
@@ -173,7 +183,7 @@ modern knowledge of the noun is derived from previous era writings and relics.
 
 #### \<Verb> Electromagnetic
 
-| **Energy Cost: 3**  |
+| **Tally Points: 3**  |
 |---------------------|
 | **Time to Cast: 1** |
 
@@ -189,7 +199,7 @@ The `Electromagnetic` noun is one of the two most common nouns.
 
 #### \<Verb> Gravity
 
-| **Energy Cost: 2**  |
+| **Tally Points: 2**  |
 |---------------------|
 | **Time to Cast: 2** |
 
