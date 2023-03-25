@@ -51,7 +51,7 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###           
+###                                   
 
 ### Setting Flavor
 
@@ -77,7 +77,10 @@ Enchantment, known in-settings as "Schema Embedding" is the most common form of 
 * Spells rank in complexity by Magery Requirement.
     * Spell with a complexity rank of **greater than** 1 must be implemented using Symbol Magic.
 
-#### Restricted Spells
+#### Restricted Spell Guidance
+
+Below are examples of spells that are not thematic for the setting. Ideas that stray close to any of the spells
+enumerated below should be reconsidered or, if attempted, may fail outright.
 
 * Food Spells - Magic. pg. 79.
 * Illusion Spells - Magic pg. 97.
@@ -90,23 +93,6 @@ Enchantment, known in-settings as "Schema Embedding" is the most common form of 
     * Communication and Empathy Spells - Magic pg. 46.
     * Enchantment Spells - Magic pg. 58.
     * Mind Control Spells - Magic pg. 135.
-
-#### Available but Uncommon
-
-* Plant Spells - Magic pg. 163.
-    * Requires Hidden Lore - Basic Set pg. 199 of or greater.
-
-
-* Divination Spells - Magic pg. 110 may only be wielded as Syntactic Magic.
-    * Divination is correction-prone uncommon.
-        * 2x Modifier for **Correction Potential**
-    * Requires Hidden Lore - Basic Set pg. 199 of 2 or greater.
-
-
-* Weather Spells - Magic pg. 195 are uncommon and often very unpredictable.
-    * Weather modification is correction-prone and uncommon to see in use.
-        * 2x Modifier for **Correction Potential**
-    * Requires Hidden Lore - Basic Set pg. 199 of 3 or greater.
 
 #### Exceptions for Larger Group of Conductors
 
@@ -124,20 +110,53 @@ Enchantment, known in-settings as "Schema Embedding" is the most common form of 
 * Move
 * Protect
 * Transform
-* Weaken*
+* Weaken
 
 ### Nouns
 
-* Air
-* Body*
-* Earth
-* Fire
-* Light
-* Magic
-* Sound
+* Meta
+    * Magic
+    * "Editing the Rules of Reality"
+
+
+* Strong Force
+    * Earth
+
+
+* Weak Force
+    * Fire
+
+
+* Electromagnetic
+    * Air
+    * Fire
+    * Light
+    * Sound
+
+
+* Gravity
+    * Air
+    * Earth
+    * Sound
+
+#### \<Verb> Strong Force
+
+* Protection, shields and barriers
+
+#### \<Verb> Strong Force, Weak Force
+
+* Create
+* Mend
 * Water
+    * Create
+
+#### \<Verb> Meta, Electromagnetic
+
+* Body
 * Plant
+    * Grow or accelerate plant growth.
 
 ### Restricted Effects
 
-* 
+*
+
