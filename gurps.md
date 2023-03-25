@@ -1,5 +1,10 @@
 # Abseta GURPs Setup
 
+## Snek Details
+
+* Torso Armor must be Flexible
+* Torso Armor must be scaled up +1 SM as-per rules on Low Tech - Page 21.
+
 ## Starting Parameters
 
 **Total: 183 CP**
@@ -46,7 +51,7 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###      
+###           
 
 ### Setting Flavor
 
@@ -110,4 +115,29 @@ Enchantment, known in-settings as "Schema Embedding" is the most common form of 
     * Exceptions for large groups show diminishing returns after scaling up to roughly 10,000 schema writers.
     * Effects remain simple for current era.
 
+## Syntactic Magic of Abseta
 
+### Verbs
+
+* Create
+* Heal
+* Move
+* Protect
+* Transform
+* Weaken*
+
+### Nouns
+
+* Air
+* Body*
+* Earth
+* Fire
+* Light
+* Magic
+* Sound
+* Water
+* Plant
+
+### Restricted Effects
+
+* 
