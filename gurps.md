@@ -40,3 +40,29 @@
 * High Tech
 * Ultra Tech
 * Power Ups: Perks
+
+## Magic System
+
+* Syntactic Magic - Magic pg. 204
+* Symbol Magic - Magic pg. 207
+
+### Setting Flavor
+
+* No divine magic.
+* Schema embedding (Enchantment - Magic pg. 18) is very common.
+
+#### Complexity
+
+* Mind domination spells are too complex to ever be practical in any era.
+    * Mind Control Spells - Magic pg. 135.
+    * Enchantment Spells - Magic pg. 58.
+
+* Divination can only be wielded as Syntactic Magic
+
+* Creation Spells are too complex to be practical by a single magic user.
+    * Exceptions for large groups of schema writers (1,000+) with high difficulty.
+    * Exceptions for large groups show diminishing returns after scaling up to roughly 10,000 schema writers.
+    * Effects remain simple for current era.
+
+* Spells rank by Magery Requirement of *greater than* 1 must be implemented using Symbol Magic.
+
