@@ -51,7 +51,7 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###                                                                                       
+###                                                                                                    
 
 ### Setting Flavor
 
@@ -128,6 +128,10 @@ novel uses may exist.
 
 #### \<Verb> Weak Force
 
+| **Energy Cost: 3**  |
+|---------------------|
+| **Time to Cast: 2** |
+
 * Explosive
 * Long Term Illness
 * Poisoning
@@ -145,7 +149,12 @@ Knowledge and use of this ability requires:
 
 #### \<Verb> Meta
 
+|**Energy Cost: 2**|
+|---|
+|**Time to Cast: 4**|
+
 * Gate
+* Enchanting
 * Transform
 * Pure Creation
     * Create Energy
@@ -164,6 +173,10 @@ modern knowledge of the noun is derived from previous era writings and relics.
 
 #### \<Verb> Electromagnetic
 
+| **Energy Cost: 3**  |
+|---------------------|
+| **Time to Cast: 1** |
+
 * Fire/Plasma Excitation
 * Light
     * Lasers
@@ -176,11 +189,18 @@ The `Electromagnetic` noun is one of the two most common nouns.
 
 #### \<Verb> Gravity
 
+| **Energy Cost: 2**  |
+|---------------------|
+| **Time to Cast: 2** |
+
 * Move
+    * Big Jump
     * Flight
-* Lifting and Throwing
-* Telekinetic or Kinetic Effects
+    * Lifting and throwing
+* Telekinetic or kinetic effects
 * Crushing
+* Density - Weight Locks
+* Projectiles
 
 The `Gravity` nouns is the second of the most common nouns.
 
