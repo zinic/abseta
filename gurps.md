@@ -51,7 +51,7 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###                                   
+###                                                    
 
 ### Setting Flavor
 
@@ -143,6 +143,20 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
 
 * Protection, shields and barriers
 
+#### \<Verb> Weak Force
+
+* Radiation
+    * Fission
+    * Fusion
+
+The `Weak Force` noun is well known as being exceptionally dangerous to society. This noun is actively shunned and
+aggressively purged from all written material throughout history.
+
+Knowledge and use of this ability requires:
+
+* **Hidden Lore - Basic Set pg. 199 - 4CP.**
+* **Unusual Background: Knowledge of Weak Force Noun - Basic Set pg. 96 - 10CP.**
+
 #### \<Verb> Strong Force, Weak Force
 
 * Create
@@ -150,11 +164,30 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
 * Water
     * Create
 
-#### \<Verb> Meta, Electromagnetic
+#### \<Verb> Meta
 
 * Body
+    * Heal Self
+    * Heal Others
+    * Aberrant Mutation
+
+
 * Plant
     * Grow or accelerate plant growth.
+
+#### \<Verb> Electromagnetic
+
+* Light
+    * Lasers
+* Radio Waves
+* Magnetic Flux
+
+#### \<Verb> Gravity
+
+* Move
+    * Flight
+* Lifting and Throwing
+* Telekinetic or Kinetic Effects
 
 ### Restricted Effects
 
