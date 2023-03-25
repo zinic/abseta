@@ -51,7 +51,7 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###                                                    
+###                                                                                       
 
 ### Setting Flavor
 
@@ -114,37 +114,23 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
 
 ### Nouns
 
-* Meta
-    * Magic
-    * "Editing the Rules of Reality"
-
-
-* Strong Force
-    * Earth
-
-
-* Weak Force
-    * Fire
-
-
-* Electromagnetic
-    * Air
-    * Fire
-    * Light
-    * Sound
-
-
-* Gravity
-    * Air
-    * Earth
-    * Sound
-
 #### \<Verb> Strong Force
 
-* Protection, shields and barriers
+* Resistance Against `Weak Force`
+    * Can neutralize or protect against `Weak Force` spell effects.
+* Protection Against Physical Attacks
+    * Temporary physical shields and barriers.
+
+The `Strong Force` noun is one of the more obscure and misunderstood. Commonly relegated to protection spells but other
+novel uses may exist.
+
+* **Hidden Lore - Basic Set pg. 199 - 1CP.**
 
 #### \<Verb> Weak Force
 
+* Explosive
+* Long Term Illness
+* Poisoning
 * Radiation
     * Fission
     * Fusion
@@ -157,30 +143,36 @@ Knowledge and use of this ability requires:
 * **Hidden Lore - Basic Set pg. 199 - 4CP.**
 * **Unusual Background: Knowledge of Weak Force Noun - Basic Set pg. 96 - 10CP.**
 
-#### \<Verb> Strong Force, Weak Force
-
-* Create
-* Mend
-* Water
-    * Create
-
 #### \<Verb> Meta
 
+* Gate
+* Transform
+* Pure Creation
+    * Create Energy
+    * Create New Matter
 * Body
     * Heal Self
     * Heal Others
     * Aberrant Mutation
-
-
 * Plant
     * Grow or accelerate plant growth.
 
+The `Meta` noun is an esoteric noun that is uncommon in this era. Previous eras leaned heavily into the Meta noun. All
+modern knowledge of the noun is derived from previous era writings and relics.
+
+* **Hidden Lore - Basic Set pg. 199 - 4CP.**
+
 #### \<Verb> Electromagnetic
 
+* Fire/Plasma Excitation
 * Light
     * Lasers
 * Radio Waves
 * Magnetic Flux
+* X-Ray
+* Gamma Rays
+
+The `Electromagnetic` noun is one of the two most common nouns.
 
 #### \<Verb> Gravity
 
@@ -188,6 +180,19 @@ Knowledge and use of this ability requires:
     * Flight
 * Lifting and Throwing
 * Telekinetic or Kinetic Effects
+* Crushing
+
+The `Gravity` nouns is the second of the most common nouns.
+
+#### \<Verb> Strong Force, Weak Force
+
+* Rearrangement Creation
+    * Convert Lead to Gold
+* Mending or Repair
+
+#### \<Verb> Strong Force, Gravity
+
+* Potent barriers and temporary bastions
 
 ### Restricted Effects
 
