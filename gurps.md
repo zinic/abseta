@@ -41,10 +41,18 @@
 * Basic Set
 * Martial Arts
 * Magic
+* Thaumatology
+* Thaumatology - Magical Styles
 * Low Tech and Supplements
 * High Tech
 * Ultra Tech
 * Power Ups: Perks
+
+### Approvals
+
+Inclusions from the following books or sections require approval before being used in game:
+
+* Thaumatology - Magical Styles
 
 ## Magic System
 
