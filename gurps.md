@@ -51,31 +51,17 @@
 * Syntactic Magic - Magic pg. 204
 * Symbol Magic - Magic pg. 207
 
-###                                                                                                         
+### Burning HP
 
-### Setting Flavor
+Casters may offset the Energy Cost of a spell by Burning HP - Magic pg. 8. Each point of health converted reduces the
+ER by 2 instead of the default of 1.
 
-* No divine magic or flavor.
-
-
-* Burning HP - Magic pg. 8.
-    * In-setting, Burning HP is known as enduring a correction.
-
-#### Enchantment
+### Enchantment
 
 Enchantment, known in-settings as "Schema Embedding" is the most common form of device proliferation and utilization.
 
 * See Enchantment - Magic pg. 18
 * Symbol Magic - Magic pg. 207.
-
-### Magic Complexity Limits
-
-**GATE SPELLS ARE VERY, VERY DANGEROUS.**
-
-#### Spell Complexity
-
-* Spells rank in complexity by Magery Requirement.
-    * Spell with a complexity rank of **greater than** 1 must be implemented using Symbol Magic.
 
 #### Restricted Spell Guidance
 
@@ -105,13 +91,25 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
 
 ### Tally and Threshold
 
-Thaumaturgey pg. 76
+Thaumatology pg. 76
 
 Magic does not have an energy cost. Instead, magic has a power tally that must be tracked by the magic user.
 
 * All mages start with a power tally threshold of 30.
 * Mages recover their power tally threshold at 10 points per-day.
 * Magic items add to the caster's power tally but only when activated.
+    * Similarly, raw schemas (written Symbolic Magic) also only add to the caster's power tally when activated.
+
+#### Enduring a Correction
+
+|Tally Threshold | Correction Strength |
+|----------------|---------------------|
+| 30 | +1                  |
+| 40 | +2                  |
+| 50 | +3                  |
+| 60 | +5                  |
+| 70 | +8                  |
+| 80 | +13                 |
 
 ### Verbs
 
@@ -120,11 +118,16 @@ Magic does not have an energy cost. Instead, magic has a power tally that must b
 * Move
 * Protect
 * Transform
+* Strengthen
 * Weaken
 
 ### Nouns
 
 #### \<Verb> Strong Force
+
+| **Tally Points: 3** |
+|---------------------|
+| **Time to Cast: 1** |
 
 * Resistance Against `Weak Force`
     * Can neutralize or protect against `Weak Force` spell effects.
@@ -224,7 +227,8 @@ The `Gravity` nouns is the second of the most common nouns.
 
 * Potent barriers and temporary bastions
 
+#### Other Notes
+
+**GATE SPELLS ARE VERY, VERY DANGEROUS.**
+
 ### Restricted Effects
-
-*
-
