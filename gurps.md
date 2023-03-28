@@ -110,14 +110,14 @@ Magic does not have an energy cost. Instead, magic has a power tally that must b
 
 #### Enduring a Correction
 
-|Tally Threshold | Correction Strength |
-|----------------|---------------------|
-| 30 | +1                  |
-| 40 | +2                  |
-| 50 | +3                  |
-| 60 | +5                  |
-| 70 | +8                  |
-| 80 | +13                 |
+| Tally Over Threshold | Correction Strength |
+|----------------------|---------------------|
+| 0 - 9                | +1                  |
+| 10 - 19              | +2                  |
+| 20 - 29              | +3                  |
+| 30 - 39              | +5                  |
+| 40 - 49              | +8                  |
+| 50 - 59              | +13                 |
 
 ### Verbs
 
