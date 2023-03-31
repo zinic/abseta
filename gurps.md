@@ -1,41 +1,5 @@
 # Abseta GURPs Setup
 
-## Snek Details
-
-* Torso Armor must be Flexible
-* Torso Armor must be scaled up +1 SM as-per rules on Low Tech - Page 21.
-
-## Starting Parameters
-
-**Total: 183 CP**
-
-##### Breakdown
-
-* 135 Initial CP
-* 35 Player Disadvantages
-* 10 Hidden Disadvantage
-* 3 Quirks
-
-##### Additional Requirements
-
-* Character must have a `Status` of `>= 1`.
-
-**OR**
-
-* Duty (-5) to Moralian CC
-* Duty (-5) to The Ortu
-
-## Access to TL6
-
-* Character must have a `Status` of `>= 1`.
-
-##### Additional Requirements
-
-**One of...**
-
-* Duty (-10) to Moralian CC
-* Duty (-10) to The Ortu
-
 ## Books
 
 * Basic Set
@@ -47,6 +11,52 @@
 * High Tech
 * Ultra Tech
 * Power Ups: Perks
+
+## Starting Parameters
+
+### CP Breakdown
+
+**Total: 183 CP**
+
+* 135 Initial CP
+* 35 Player Disadvantages
+* 10 Hidden Disadvantage
+* 3 Quirks
+
+### Snek Details
+
+* Torso Armor must be Flexible
+* Torso Armor must be scaled up +1 SM as-per rules on Low Tech - Page 21.
+
+## Access to Campaign Tech Levels
+
+### Tech Level 4
+
+Tech Level 4 is the base tech level for 85% of the population of Abdica and has no requirement cost.
+
+### Tech Level 5
+
+Tech Level 5 accounts for an additional 10% of the population of Abdica. A character must have at least a minor status
+modifier or a -5CP Duty disadvantage.
+
+* Character must have a `Status` of `>= 1`.
+
+**OR ONE OF**
+
+* Duty (-5 CP) to Moralian CC
+* Duty (-5 CP) to The Ortu
+
+### Tech Level 6
+
+Tech Level 6 is relegated to a privileged 5% of the population of Abdica. A character must have a last a minor status
+and a stronger duty bound tie to one of the major magical organizations in Abdica.
+
+* Character must have a `Status` of `>= 1`.
+
+**AND ONE OF**
+
+* Duty (-10 CP) to Moralian CC
+* Duty (-10 CP) to The Ortu
 
 ### Approvals
 
@@ -88,14 +98,9 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
     * Enchantment Spells - Magic pg. 58.
     * Mind Control Spells - Magic pg. 135.
 
-#### Exceptions for Larger Group of Conductors
-
-* Creation Spells are too complex to be practical by a single magic user.
-    * Exceptions for large groups of schema writers (1,000+) with high difficulty.
-    * Exceptions for large groups show diminishing returns after scaling up to roughly 10,000 schema writers.
-    * Effects remain simple for current era.
-
 ## Syntactic Magic of Abseta
+
+* All magic use except for schematic device invocation requires Magery 1.
 
 ### Tally and Threshold
 
@@ -105,29 +110,72 @@ Magic does not have an energy cost. Instead, magic has a power tally that must b
 
 * All mages start with a power tally threshold of 30.
 * Mages recover their power tally threshold at 10 points per-day.
-* Magic items add to the caster's power tally but only when activated.
+* Persistent magic effects add to a caster's power tally.
+    * Always on magic items
+    * Magic effects maintained by a caster
+    * Magic effects with a time direction created by a caster
+* Non-persistent magic items add to the caster's power tally but only when activated.
     * Similarly, raw schemas (written Symbolic Magic) also only add to the caster's power tally when activated.
 
 #### Enduring a Correction
 
 | Tally Over Threshold | Correction Strength |
 |----------------------|---------------------|
-| 0 - 9                | +1                  |
-| 10 - 19              | +2                  |
-| 20 - 29              | +3                  |
-| 30 - 39              | +5                  |
-| 40 - 49              | +8                  |
-| 50 - 59              | +13                 |
+| 0 - 4                | +1                  |
+| 5 - 9                | +2                  |
+| 10 - 14              | +3                  |
+| 15 - 19              | +5                  |
+| 20 - 24              | +8                  |
+| 25 - 29              | +13                 |
+| 30 - 34              | +21                 |
+| 35 - 39              | +34                 |
+| 40+                  | ...                 |
 
 ### Verbs
 
-* Create
-* Heal
-* Move
-* Protect
-* Transform
-* Strengthen
-* Weaken
+All verbs are **IQ/Very Hard** skills that may be acquired by any mage with Magery 1.
+
+#### Create
+
+| **Tally Points: 3** |
+|---------------------|
+| **Time to Cast: 3** |
+
+#### Restore
+
+| **Tally Points: 2** |
+|---------------------|
+| **Time to Cast: 3** |
+
+#### Move
+
+| **Tally Points: 1** |
+|---------------------|
+| **Time to Cast: 0** |
+
+#### Protect
+
+| **Tally Points: 1** |
+|---------------------|
+| **Time to Cast: 0** |
+
+#### Transform
+
+| **Tally Points: 2** |
+|---------------------|
+| **Time to Cast: 3** |
+
+#### Strengthen
+
+| **Tally Points: 2** |
+|---------------------|
+| **Time to Cast: 1** |
+
+#### Weaken
+
+| **Tally Points: 2** |
+|---------------------|
+| **Time to Cast: 1** |
 
 ### Nouns
 
@@ -149,7 +197,7 @@ novel uses may exist.
 
 #### \<Verb> Weak Force
 
-| **Tally Points: 3**  |
+| **Tally Points: 3** |
 |---------------------|
 | **Time to Cast: 2** |
 
@@ -170,9 +218,9 @@ Knowledge and use of this ability requires:
 
 #### \<Verb> Meta
 
-|**Tally Points: 2**|
-|---|
-|**Time to Cast: 4**|
+| **Tally Points: 2** |
+|---------------------|
+| **Time to Cast: 4** |
 
 * Gate
 * Enchanting
@@ -194,7 +242,7 @@ modern knowledge of the noun is derived from previous era writings and relics.
 
 #### \<Verb> Electromagnetic
 
-| **Tally Points: 3**  |
+| **Tally Points: 3** |
 |---------------------|
 | **Time to Cast: 1** |
 
@@ -210,7 +258,7 @@ The `Electromagnetic` noun is one of the two most common nouns.
 
 #### \<Verb> Gravity
 
-| **Tally Points: 2**  |
+| **Tally Points: 2** |
 |---------------------|
 | **Time to Cast: 2** |
 
@@ -240,3 +288,23 @@ The `Gravity` nouns is the second of the most common nouns.
 **GATE SPELLS ARE VERY, VERY DANGEROUS.**
 
 ### Restricted Effects
+
+Spoken or somatic devices
+
+## Symbolic Magic of Abseta
+
+Symbolic magic in Abseta uses the same nouns and verbs defined in Syntactic Magic. Their energy costs are the same.
+
+### Device Invocation
+
+### Symbol Verbs
+
+All symbol verbs retain their respective energy cost as defined
+
+* Create
+* Heal
+* Move
+* Protect
+* Transform
+* Strengthen
+* Weaken
