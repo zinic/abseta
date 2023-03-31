@@ -1,5 +1,51 @@
 # Abseta GURPs Setup
 
+* [Abseta GURPs Setup](#abseta-gurps-setup)
+    * [Books](#books)
+    * [Starting Parameters](#starting-parameters)
+        * [CP Breakdown](#cp-breakdown)
+        * [Snek Details](#snek-details)
+    * [Access to Campaign Tech Levels](#access-to-campaign-tech-levels)
+        * [Tech Level 4](#tech-level-4)
+        * [Tech Level 5](#tech-level-5)
+        * [Tech Level 6](#tech-level-6)
+        * [Approvals](#approvals)
+    * [Magic System](#magic-system)
+        * [Burning HP](#burning-hp)
+        * [Enchantment](#enchantment)
+            * [Restricted Spell Guidance](#restricted-spell-guidance)
+    * [Syntactic Magic of Abseta](#syntactic-magic-of-abseta)
+        * [Tally and Threshold](#tally-and-threshold)
+            * [Enduring a Correction](#enduring-a-correction)
+            * [Other Notes](#other-notes)
+        * [Restricted Effects](#restricted-effects)
+    * [Symbolic Magic of Abseta](#symbolic-magic-of-abseta)
+        * [Optional Rules](#optional-rules)
+        * [Exclusions](#exclusions)
+        * [Schematic Device Invocation](#schematic-device-invocation)
+        * [Symbol Verbs](#symbol-verbs)
+        * [Symbol Nouns](#symbol-nouns)
+        * [Schematic Writing and Enchantment](#schematic-writing-and-enchantment)
+            * [Persistent Enchantments](#persistent-enchantments)
+    * [Syntactic Magic Lexicon](#syntactic-magic-lexicon)
+        * [Verbs](#verbs)
+            * [Create](#create)
+            * [Restore](#restore)
+            * [Move](#move)
+            * [Protect](#protect)
+            * [Transform](#transform)
+            * [Strengthen](#strengthen)
+            * [Weaken](#weaken)
+        * [Nouns](#nouns)
+            * [Strong Force](#strong-force)
+            * [Weak Force](#weak-force)
+            * [Meta](#meta)
+            * [Electromagnetic](#electromagnetic)
+            * [Gravity](#gravity)
+        * [Multi-Word Lexicon](#multi-word-lexicon)
+            * [&lt;Verb&gt; Strong Force, Weak Force](#verb-strong-force-weak-force)
+            * [&lt;Verb&gt; Strong Force, Gravity](#verb-strong-force-gravity)
+
 ## Books
 
 * Basic Set
@@ -143,17 +189,6 @@ Syntactic Magic in Abseta is limited two a maximum of 3 . Magical words
 
 Symbolic magic in Abseta uses the same nouns and verbs defined in the Syntactic Magic Lexicon.
 
-### Schematic Writing and Enchantment
-
-Enchantment in Abseta uses the Symbolic Enchantment rules found in - Thaumatology pg. 175
-
-* Quick and Dirty - Basic pg. 481
-* Slow and Sure - Basic pg. 481
-
-#### Persistent Enchantments
-
-Must use the Meta noun as part of the enchantment to represent Power.
-
 #### Optional Rules
 
 * Parchment Symbol Casting - Thaumatology pg. 173
@@ -171,11 +206,24 @@ Caster must have Symbol Writing. Rules for invocation follow activating symbolic
 
 ### Symbol Verbs
 
-All symbol verbs retain their respective energy cost as defined in the Syntactic Magic Lexicon.
+All symbol verbs retain their respective energy cost as defined in the Syntactic Magic Lexicon. Casters only need the
+relevant skill for a verb once.
 
 ### Symbol Nouns
 
-All symbol nouns retain their respective energy cost as defined in the Syntactic Magic Lexicon.
+All symbol nouns retain their respective energy cost as defined in the Syntactic Magic Lexicon. Casters only need the
+relevant skill for a noun once.
+
+### Schematic Writing and Enchantment
+
+Enchantment in Abseta uses the Symbolic Enchantment rules found in - Thaumatology pg. 175
+
+* Quick and Dirty - Basic pg. 481
+* Slow and Sure - Basic pg. 481
+
+#### Persistent Enchantments
+
+Must use the [Meta](#meta) noun as part of the enchantment to represent Power - Basic pg. 481.
 
 ## Syntactic Magic Lexicon
 
