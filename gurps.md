@@ -131,59 +131,91 @@ Magic does not have an energy cost. Instead, magic has a power tally that must b
 | 35 - 39              | +34                 |
 | 40+                  | ...                 |
 
+#### Other Notes
+
+**GATE SPELLS ARE VERY, VERY DANGEROUS.**
+
+### Restricted Effects
+
+Syntactic Magic in Abseta is limited two a maximum of 3 . Magical words
+
+## Symbolic Magic of Abseta
+
+Symbolic magic in Abseta uses the same nouns and verbs defined in the Syntactic Magic Lexicon.
+
+### Schematic Writing and Enchantment
+
+Enchantment in Abseta uses the Symbolic Enchantment rules found in - Thaumatology pg. 175
+
+* Quick and Dirty - Basic pg. 481
+* Slow and Sure - Basic pg. 481
+
+#### Persistent Enchantments
+
+Must use the Meta noun as part of the enchantment to represent Power.
+
+#### Optional Rules
+
+* Parchment Symbol Casting - Thaumatology pg. 173
+    * Symbols and Dust - Thaumatology pg. 175
+* One-Off Enchantments - Thaumatology pg. 175
+
+#### Exclusions
+
+* Symbol Tokens
+* Finger Tracing
+
+### Schematic Device Invocation
+
+Caster must have Symbol Writing. Rules for invocation follow activating symbolic magic - Thaumatology pg. 173.
+
+### Symbol Verbs
+
+All symbol verbs retain their respective energy cost as defined in the Syntactic Magic Lexicon.
+
+### Symbol Nouns
+
+All symbol nouns retain their respective energy cost as defined in the Syntactic Magic Lexicon.
+
+## Syntactic Magic Lexicon
+
 ### Verbs
 
-All verbs are **IQ/Very Hard** skills that may be acquired by any mage with Magery 1.
+| Verb       | Skill Level    | Tally Point Cost | Time to Cast |
+|------------|----------------|------------------|--------------|
+| Create     | IQ / Very Hard | **3**            | **3**        |
+| Restore    | IQ / Very Hard | **2**            | **3**        |
+| Move       | IQ / Very Hard | **1**            | **0**        |
+| Protect    | IQ / Very Hard | **1**            | **1**        |
+| Transform  | IQ / Very Hard | **2**            | **3**        |
+| Strengthen | IQ / Very Hard | **2**            | **1**        |
+| Weaken     | IQ / Very Hard | **2**            | **1**        |
 
 #### Create
 
-| **Tally Points: 3** |
-|---------------------|
-| **Time to Cast: 3** |
-
 #### Restore
-
-| **Tally Points: 2** |
-|---------------------|
-| **Time to Cast: 3** |
 
 #### Move
 
-| **Tally Points: 1** |
-|---------------------|
-| **Time to Cast: 0** |
-
 #### Protect
-
-| **Tally Points: 1** |
-|---------------------|
-| **Time to Cast: 0** |
 
 #### Transform
 
-| **Tally Points: 2** |
-|---------------------|
-| **Time to Cast: 3** |
-
 #### Strengthen
-
-| **Tally Points: 2** |
-|---------------------|
-| **Time to Cast: 1** |
 
 #### Weaken
 
-| **Tally Points: 2** |
-|---------------------|
-| **Time to Cast: 1** |
-
 ### Nouns
 
-#### \<Verb> Strong Force
+| Noun            | Skill Level    | Tally Point Cost | Time to Cast |
+|-----------------|----------------|------------------|--------------|
+| Strong Force    | IQ / Very Hard | **3**            | **1**        |
+| Weak Force      | IQ / Very Hard | **3**            | **2**        |
+| Meta            | IQ / Very Hard | **2**            | **4**        |
+| Electromagnetic | IQ / Very Hard | **3**            | **1**        |
+| Gravity         | IQ / Very Hard | **2**            | **2**        |
 
-| **Tally Points: 3** |
-|---------------------|
-| **Time to Cast: 1** |
+#### Strong Force
 
 * Resistance Against `Weak Force`
     * Can neutralize or protect against `Weak Force` spell effects.
@@ -195,11 +227,7 @@ novel uses may exist.
 
 * **Hidden Lore - Basic Set pg. 199 - 1CP.**
 
-#### \<Verb> Weak Force
-
-| **Tally Points: 3** |
-|---------------------|
-| **Time to Cast: 2** |
+#### Weak Force
 
 * Explosive
 * Long Term Illness
@@ -216,11 +244,7 @@ Knowledge and use of this ability requires:
 * **Hidden Lore - Basic Set pg. 199 - 4CP.**
 * **Unusual Background: Knowledge of Weak Force Noun - Basic Set pg. 96 - 10CP.**
 
-#### \<Verb> Meta
-
-| **Tally Points: 2** |
-|---------------------|
-| **Time to Cast: 4** |
+#### Meta
 
 * Gate
 * Enchanting
@@ -240,11 +264,7 @@ modern knowledge of the noun is derived from previous era writings and relics.
 
 * **Hidden Lore - Basic Set pg. 199 - 4CP.**
 
-#### \<Verb> Electromagnetic
-
-| **Tally Points: 3** |
-|---------------------|
-| **Time to Cast: 1** |
+#### Electromagnetic
 
 * Fire/Plasma Excitation
 * Light
@@ -256,11 +276,7 @@ modern knowledge of the noun is derived from previous era writings and relics.
 
 The `Electromagnetic` noun is one of the two most common nouns.
 
-#### \<Verb> Gravity
-
-| **Tally Points: 2** |
-|---------------------|
-| **Time to Cast: 2** |
+#### Gravity
 
 * Move
     * Big Jump
@@ -273,6 +289,8 @@ The `Electromagnetic` noun is one of the two most common nouns.
 
 The `Gravity` nouns is the second of the most common nouns.
 
+### Multi-Word Lexicon
+
 #### \<Verb> Strong Force, Weak Force
 
 * Rearrangement Creation
@@ -282,29 +300,3 @@ The `Gravity` nouns is the second of the most common nouns.
 #### \<Verb> Strong Force, Gravity
 
 * Potent barriers and temporary bastions
-
-#### Other Notes
-
-**GATE SPELLS ARE VERY, VERY DANGEROUS.**
-
-### Restricted Effects
-
-Spoken or somatic devices
-
-## Symbolic Magic of Abseta
-
-Symbolic magic in Abseta uses the same nouns and verbs defined in Syntactic Magic. Their energy costs are the same.
-
-### Device Invocation
-
-### Symbol Verbs
-
-All symbol verbs retain their respective energy cost as defined
-
-* Create
-* Heal
-* Move
-* Protect
-* Transform
-* Strengthen
-* Weaken
