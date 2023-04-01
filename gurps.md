@@ -191,6 +191,7 @@ Symbolic magic in Abseta uses the same nouns and verbs defined in the Syntactic 
 
 #### Optional Rules
 
+* Margin of Success for Syntactic Parameters - Thaumatology pg. 180+
 * Parchment Symbol Casting - Thaumatology pg. 173
     * Symbols and Dust - Thaumatology pg. 175
 * One-Off Enchantments - Thaumatology pg. 175
