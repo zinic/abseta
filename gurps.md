@@ -74,6 +74,8 @@
 * Torso Armor must be Flexible
 * Torso Armor must be scaled up +1 SM as-per rules on Low Tech - Page 21.
 
+## Cultures and Languages
+
 ## Access to Campaign Tech Levels
 
 ### Tech Level 4
@@ -219,64 +221,91 @@ relevant skill for a noun once.
 
 Enchantment in Abseta uses the Symbolic Enchantment rules found in - Thaumatology pg. 175
 
+#### Additional Rules
+
+* Magic Items - Basic pg. 480+
 * Quick and Dirty - Basic pg. 481
 * Slow and Sure - Basic pg. 481
+* Enchanters must use the [Meta](#meta) noun as part of the enchantment to represent Power - Basic pg. 481.
 
-#### Persistent Enchantments
+# Syntactic Magic Lexicon
 
-Must use the [Meta](#meta) noun as part of the enchantment to represent Power - Basic pg. 481.
+| Verb       | Word         | Pronunciation | Tally Point Cost | Time to Cast |
+|------------|--------------|---------------|------------------|--------------|
+| Create     | Uruvākka     | Uru-vak-ku    | **3**            | **3**        |
+| Restore    | Mīṭṭamai     | Mit-ta-mai    | **2**            | **3**        |
+| Move       | Nakarvu      | Na-kar-vu     | **0**            | **0**        |
+| Protect    | Etirkka      | Yeh-tre-ka    | **1**            | **1**        |
+| Transform  | Urumāṟṟam    | U-ru-machm    | **2**            | **3**        |
+| Strengthen | Palappaṭuttu | Pa-lap-patu   | **2**            | **1**        |
+| Weaken     | Palavīṉam    | Pa-la-vi-nam  | **2**            | **1**        |
 
-## Syntactic Magic Lexicon
+| Noun            | Word     | Pronunciation | Tally Point Cost | Time to Cast |
+|-----------------|----------|---------------|------------------|--------------|
+| Strong Force    | Pacai    | Pa-se-ee      | **3**            | **1**        |
+| Weak Force      | Cūriyaṉ  | Si-yuri-an    | **3**            | **2**        |
+| Meta            | Mantiram | Man-ti-ram    | **2**            | **4**        |
+| Electromagnetic | Miṉṉal   | Min-nal       | **3**            | **1**        |
+| Gravity         | Paṭai    | Pa-taie       | **2**            | **2**        |
 
-### Verbs
+## Verbs
 
-| Verb       | Skill Level    | Tally Point Cost | Time to Cast |
-|------------|----------------|------------------|--------------|
-| Create     | IQ / Very Hard | **3**            | **3**        |
-| Restore    | IQ / Very Hard | **2**            | **3**        |
-| Move       | IQ / Very Hard | **1**            | **0**        |
-| Protect    | IQ / Very Hard | **1**            | **1**        |
-| Transform  | IQ / Very Hard | **2**            | **3**        |
-| Strengthen | IQ / Very Hard | **2**            | **1**        |
-| Weaken     | IQ / Very Hard | **2**            | **1**        |
+Verbs are required in a phrase to impart action. Without a verb, a phrase has no effect.
 
-#### Create
+### Create
 
-#### Restore
+Can be used to invoke creation of a given set of nouns. This creation may take many shapes depending on the nouns
+involved and can manifest from nothing.
+
+### Restore
+
+The restore verb implies a reversal of entropy in a given set of nouns. Has synonymous meaning with repair in many
+phrases.
 
 #### Move
 
+Move gives directional motion at any scale to a given set of nouns.
+
 #### Protect
+
+Protect can be used with a given set of nouns to imply resistance.
 
 #### Transform
 
+Transform is used synonymously with changing and conversion. Could be used to describe energy transference.
+
 #### Strengthen
+
+Strengthen is synonymous with both amplification and fortification.
 
 #### Weaken
 
-### Nouns
+Antipode of strengthen. To make vulnerable. To dampen.
 
-| Noun            | Skill Level    | Tally Point Cost | Time to Cast |
-|-----------------|----------------|------------------|--------------|
-| Strong Force    | IQ / Very Hard | **3**            | **1**        |
-| Weak Force      | IQ / Very Hard | **3**            | **2**        |
-| Meta            | IQ / Very Hard | **2**            | **4**        |
-| Electromagnetic | IQ / Very Hard | **3**            | **1**        |
-| Gravity         | IQ / Very Hard | **2**            | **2**        |
+## Nouns
 
-#### Strong Force
+### Strong Force
+
+The `Strong Force` noun is one of the more obscure and misunderstood. Commonly relegated to protection spells but other
+novel uses may exist.
+
+**Examples**
 
 * Resistance Against `Weak Force`
     * Can neutralize or protect against `Weak Force` spell effects.
 * Protection Against Physical Attacks
     * Temporary physical shields and barriers.
 
-The `Strong Force` noun is one of the more obscure and misunderstood. Commonly relegated to protection spells but other
-novel uses may exist.
+**Usage**
 
 * **Hidden Lore - Basic Set pg. 199 - 1CP.**
 
-#### Weak Force
+### Weak Force
+
+The `Weak Force` noun is well known as being exceptionally dangerous to society. This noun is actively shunned and
+aggressively purged from all written material throughout history.
+
+**Examples**
 
 * Explosive
 * Long Term Illness
@@ -285,15 +314,19 @@ novel uses may exist.
     * Fission
     * Fusion
 
-The `Weak Force` noun is well known as being exceptionally dangerous to society. This noun is actively shunned and
-aggressively purged from all written material throughout history.
+**Usage**
 
 Knowledge and use of this ability requires:
 
 * **Hidden Lore - Basic Set pg. 199 - 4CP.**
 * **Unusual Background: Knowledge of Weak Force Noun - Basic Set pg. 96 - 10CP.**
 
-#### Meta
+### Meta
+
+The `Meta` noun is an esoteric noun that is uncommon in this era. Previous eras leaned heavily into the Meta noun. All
+modern knowledge of the noun is derived from previous era writings and relics.
+
+**Examples**
 
 * Gate
 * Enchanting
@@ -308,12 +341,15 @@ Knowledge and use of this ability requires:
 * Plant
     * Grow or accelerate plant growth.
 
-The `Meta` noun is an esoteric noun that is uncommon in this era. Previous eras leaned heavily into the Meta noun. All
-modern knowledge of the noun is derived from previous era writings and relics.
+**Usage**
 
 * **Hidden Lore - Basic Set pg. 199 - 4CP.**
 
-#### Electromagnetic
+### Electromagnetic
+
+The `Electromagnetic` noun is one of the two most common nouns.
+
+**Examples**
 
 * Fire/Plasma Excitation
 * Light
@@ -323,29 +359,30 @@ modern knowledge of the noun is derived from previous era writings and relics.
 * X-Ray
 * Gamma Rays
 
-The `Electromagnetic` noun is one of the two most common nouns.
+**Usage**
 
-#### Gravity
+This noun has no additional requirements.
 
-* Move
-    * Big Jump
-    * Flight
-    * Lifting and throwing
-* Telekinetic or kinetic effects
+### Gravity
+
+The `Gravity` nouns is the second of the most common nouns.
+
+**Examples**
+
 * Crushing
 * Density - Weight Locks
 * Projectiles
 
-The `Gravity` nouns is the second of the most common nouns.
+**Usage**
 
-### Multi-Word Lexicon
+This noun has no additional requirements.
 
-#### \<Verb> Strong Force, Weak Force
+### Phrase Lexicon
 
-* Rearrangement Creation
-    * Convert Lead to Gold
-* Mending or Repair
-
-#### \<Verb> Strong Force, Gravity
-
-* Potent barriers and temporary bastions
+| Phrase                     | Tally Point Cost | Time Cost | Use            | Description |
+|----------------------------|------------------|-----------|----------------|-------------|
+| Move, Electromagnetic      | 3                | 1         | Fireball       |             |
+| Move, Electromagnetic      | 3                | 1         | Lightning Bolt |             |
+| Move, Gravity              | 2                | 2         | Telekinesis    |             |
+| Create, Strong Force, Meta | 8                | 8         | Create Object  |             |
+| Weaken, Meta               | 4                | 5         | Dispell        |             |

@@ -104,20 +104,6 @@ Era. Home to mostly hostile and inhospitable lands, the vast majority of agents 
 costs that face Cortu Amas across the Ortu ocean. While once a lush and prosperous home, the majority of Faena's surface
 landmass is covered by scarring and horrific corrections made during the First Collapse.
 
-## Cultures
-
-Abdica contains a diverse array of agent cultures and species.
-
-### Dominant Cultures
-
-#### Thealia
-
-Once known as Therai, Thealia is
-
-####
-
-### Relevant Subcultures
-
 ### Agent Species
 
 ## History
@@ -320,8 +306,8 @@ for the raiders. The buildings of the college were pillaged of anything of or re
 schematics.
 
 Investigations into the raid pointed originally to agents of The Mal Ortu but there remained no direct evidence that
-could otherwise identify the perpetrators. The next advancement in the investigation wasn't until roughly a year after
-a new advancement in Tor production capacity was traced back to a stolen schematic from Torvokos. Still unable to prove
+could otherwise identify the perpetrators. The next advancement in the investigation wasn't until roughly a year after a
+new advancement in Tor production capacity was traced back to a stolen schematic from Torvokos. Still unable to prove
 further connection, this realization lead to public scandal and accusations left unresolved.
 
 The primary result of the public nature of the fallout was a lingering and potent hatred of the Tor guild amongst the
@@ -347,8 +333,8 @@ one of the Therai's most dedicated conductors to Tol Amas.
 Upon arrival, the conductor descended below decks to the cargo hold. Stored therein was a schematic designed to spiral
 out of control. The effects would be imperceptible at first as the device directed immense amounts of thermal energy
 into the water of the harbor. The water around the ship would begin to boil first. As the invoked device grew in power
-the coastline of the harbor city became enveloped by a cloud of superheated steam. Those closest to the coastline
-not sheltered from the cloud all perished within minutes.
+the coastline of the harbor city became enveloped by a cloud of superheated steam. Those closest to the coastline not
+sheltered from the cloud all perished within minutes.
 
 Water from the surrounding ocean poured in to fill the rapidly evaporating harbor. The wooden components of any harbor
 structure would catch fire next. This spread outward from the harbor and into the rest of the city, torching any
@@ -365,29 +351,62 @@ Records of the event only exist from the perspective of far away ships watching 
 Despite the fact that there remained no evidence of what had happened to Tol Amas, the Tor held such sway that even if
 the Therai had not been responsible, the blame would still have found them. The Therai's willingness to use device
 correction as a weapon galvanized the other three guilds in opposition. It had been more than a thousand years since
-Abdica civilizations had witnessed a correction of this magnitude. The Tor demanded no less than two thirds of the
+Abdican civilizations had witnessed a correction of this magnitude. The Tor demanded no less than two thirds of the
 Therai guild's assets in reparation.
 
-Pressure from the Metricos and the Mal Ortu was ineffective in swaying the entrenched Therai leaders. It was no secret
-given the unwillingness of the Therai to capitulate that war would be inevitable.
+The Tor delegation and proposal was met with open hostility and was unsuccessful in procuring a resolution. Pressure
+from the Metricos and the Mal Ortu was also ineffective in swaying the entrenched Therai leaders. Given the
+unwillingness of the Therai to capitulate, a guild war was inevitable.
 
-The Therai use the big boom but are routed by Tor and Metricos guild controllers. They are tricked by The Mal Ortu to
-commit to a location that has an already active device and then pin the Therai detachment. Set a month before the
-Therai's arrival the Mal Ortu device interacts with the invocation of the Therai correction schematic, fatally. Before
-the inevitable correction, a radius measured in hundreds of miles is bathed in heat so intense that entire forests are
-reduced to ash.
+Being one of the lesser of the four guilds, the Therai can not project enough force to effectively fight a war across
+the Ortu ocean. They instead double down on previous strategies. Correction effects are seen as their ultimate weapon. A
+correction large enough could end the war.
 
-The resulting correction required to stop the spiral was greater than any academic expectation. Tendrils of eerie violet
-energy arced across the scorched landscape, seeming to erupt from the ground itself. These immense threads of reality
-bending light stretched out across thousands of miles of Faena heartland to redirect and halt the combined device. The
-release of energy is so strong that it rips Faena up. Millions perish. Land becomes forever irradiated or otherwise
-tainted. Thousands of tons of fallout spew upwards into the sky from the mile deep trenches carved into the once verdant
-ground.
+The entire Therai fleet departs for Faena. Tor and Metricos guild controllers aboard vessels in a combined united guild
+fleet route the Therai with overwhelming force. The pressure applied by the larger fleet forces the Therai fleet to
+divert in retreat.
+
+The pursing united guild fleet forces the Therai to commit to the nearest Faenan coast. Unknown to the Therai, the
+geographic area was selected intentionally by the united guild fleet. Prepared, not far from the coastline, was a
+massive and already active device. With the Therai fleet and landing detachment effectively pinned they commit to
+execute the correction generating schematic. The enormous device quickly begins to spiral out of control.
+
+The Mal Ortu activate their nearby counter-device in response. The goal of the counter-device is to force the spiral to
+invoke a correction sooner rather than later to limit the radius of damage. However, the effect required to halt the
+Therai schematic is greater than any Mal Ortu academic expectation.
+
+Instead of halting, the spiral of schematic effects compound. Tendrils of eerie violet energy arced across the scorched
+landscape, seeming to erupt from the ground itself. These immense threads of reality bending light stretched out across
+thousands of miles of Faena heartland to redirect and halt the combined device. The release of energy is so strong that
+it rips Faena up. Millions perish. Land becomes forever irradiated or otherwise tainted. Thousands of tons of fallout
+spew upwards into the sky from the mile deep trenches carved into the once verdant ground.
 
 The remaining forces of the united guilds topple the Therai and take over the guild house in their home city of Kokoria.
-This ends the lineage for the Therai guild and results in total occupation of Therai itself.
+This ends the lineage for the Therai guild and results in total occupation of Therai itself. The remaining Therai
+conductors are exiled and forced to live on a remote island in the Ortu Ocean.
 
-### The Long Dark
+#### The Long Dark
+
+Darkness blots out the sun for months. Weather pattern disruptions occur across all of Abdica. The climate changes as
+the fallout settles, altering the environment of the entire simulation. The effects of the correction continue to ripple
+outwards for years. The historical impact of this resulting era remains a cultural constant throughout all future ages.
+The Long Dark is the name given to the period of time spanning several years following the destruction of Faena. During
+this era the effects of the correction continue to alter the physical geography of the world in drastic ways.
+
+The Mal Ortu and Metricos carve between them a given a portion of Therai to administer. The new order of the guilds was
+largely divided up by the location of the cities they controlled. In an exchange of land and political favor, The Mal
+Ortu are gifted with the entirety of the guild house in Kokoria.
+
+Within months of the war, the guilds launch the first of many large scale projects. A massive fleet of ships and other
+vessels are constructed to replace the fleets destroyed in the war. The project is conducted under the auspices of the
+Mal Ortu Guild Reconstruction Council. Within a few years, the fleet is completed and begins its work of reestablishing
+trade routes.
+
+With the fleet in place, trade once again flourishes. The Faenan coasts finally begin revitalization efforts. The
+weakend Tor guild survives but is relegated to a place far behind the Mal Ortu and the Metricos.
+
+The fallout from the Therai war shows signs of clearing after 9 years. With in 12 the aberrant weather patterns
+normalize, making ocean transit far easier and less dangerous.
 
 5450sp - 7800sp
 
@@ -395,7 +414,7 @@ This ends the lineage for the Therai guild and results in total occupation of Th
 
 #### Noteworthy Events
 
-* Meliai the Torn Land
+* Faena the Torn Land
 * Disposal of the Requirements Ortu Cabal
 
 ### Assembly Era
@@ -462,7 +481,7 @@ The Enlightened Era builds upon the prior era in relearning large scale schemati
 
 #### Noteworthy Events
 
-### Current Era
+## Current Era
 
 The current era is known as the era of convergence. It is a time of stable prosperity brought about after recovery from
 the second ruin.
@@ -471,6 +490,111 @@ Most cultures on Abdica recognize a common calendar that came into use after the
 called the common era calendar.
 
 Solar passes recognized by the common era calendar: `629 passes`.
+
+## Nations of the Current Era
+
+### Thealia
+
+Once known as Therai. Culturally descended from occupied Therai.
+
+### Moralia
+
+Established by the the Moral guild.
+
+### Faena Auth
+
+Also known as the Confederated Faenan Coasts.
+
+### Tor Amas
+
+The eastern coast of Cortu Amas rules primarily by a coalition of descendents of Haamat (a lesser guild) and Metricos
+guild leaders.
+
+## Cultures of the Current Era
+
+### Common Languages
+
+Stretching back almost 300 solar passes, the higher order guilds agreed to a common trade language based off of the most
+widely used language at the time: Cortuan.
+
+### Thealian
+
+* Language: Thealian, Cortuan
+
+#### Disposition
+
+* Seeks harmony through collaboration.
+* Scrappy and known to be resourceful.
+* Tightly aligned and focused on device and schematic design.
+* Exporter of schematic knowledge.
+
+### Tor Amas
+
+* Language: Cortuan
+
+#### Disposition
+
+* Prefers action over planning and indecision.
+* Expert politicians. Emphasises trade and exchange over conflict.
+* Trust by verify. Maintains an active standing army that's the largest in Current Era Abdica.
+
+### Moralian
+
+* Languages: Thealian, Kleskan
+
+#### Disposition
+
+* Authoritarian, direct and controlling.
+* Carefully planned.
+* Seeks the moral right.
+* Genuine but misguided.
+
+### Faenan
+
+* Language: Faenan, Cortuan
+
+#### Disposition
+
+* Seeks harmony through collaboration.
+* Scrappy and known to be resourceful.
+* Oldest Current Era culture gives them a historical perspective that other cultures lack.
+
+## Nation Entities of the Current Era
+
+### The Haamat
+
+* Culture: Thealian
+
+Lesser guild. Newest guild organization established. Heavily influenced by the Meliai.
+
+### The Thealian Guild
+
+* Culture: Thealian
+
+Derived from descended lesser guilds of Cortu Amas during the reclamation.
+
+### Faenan Cost Council
+
+* Culture: Faenan
+
+Descendent of the Tor and Mal Ortu guilds.
+
+### The Meliai
+
+* Culture: Tor Amas
+
+Descendent of Metricos.
+
+### Moral Guild
+
+* Culture: Moralian
+
+Descendent guild that stretches back to the occupied Therai guilds from the first collapse. Dominant player in the
+Abdican political sphere. Magic police.
+
+### Ortu Cabal
+
+* Culture Ortu Amas
 
 ## Deities of Abseta
 
@@ -491,7 +615,55 @@ them. Deities "express" their presence and expose their power through religious 
 
 ### Historical Deities
 
+#### Vas
+
+Lexicon: Create, Strengthen, Weaken, Gravity
+
+**Requies Hidden Lore (Forgotten Device Libraries) - 1CP**
+
+#### Theraiol
+
+Lexicon: Restore, Protect, Strong Force, Meta
+
+**Requies Hidden Lore (Forgotten Device Libraries) - 2CP**
+
+#### Metricos
+
+Lexicon: Create, Strengthen, Weaken, Electromagnetic
+
+**Requies Hidden Lore (Forgotten Device Libraries) - 1CP**
+
+#### Zthen
+
+Lexicon: Create, Transform, Electromagnetic, Weak Force
+
+**Requies Hidden Lore (Forgotten Device Libraries) - 2CP**
+
 ### Current Era Deities
+
+#### Arath
+
+Lexicon: Transform, Create, Restore, Meta
+
+**Requies Hidden Lore (Obscure or Forbidden Device Libraries) - 2CP**
+
+#### Yusol
+
+Lexicon: Move, Gravity
+
+#### Ursol
+
+Lexicon: Protect, Create, Restore, Strong Force, Gravity
+
+#### Vasaru
+
+Lexicon: Move, Strengthen, Electromagnetic
+
+#### Polth
+
+Lexicon: Create, Strengthen, Weaken, Meta, Weak Force
+
+**Requies Hidden Lore (Obscure or Forbidden Device Libraries) - 4CP**
 
 ### The Decay
 
