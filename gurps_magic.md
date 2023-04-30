@@ -69,8 +69,6 @@ Applying a sing damage type:
 Device damage of 2d requires margin 4.
 A large piercing attack has a modifier of x1.5.
 
-
-
 The required total margin for the damage and damage type is: 4 x 1.5 = 6.
 ```
 
@@ -80,8 +78,6 @@ Stacking multiple damage types:
 Device damage of 4d+1 requires margin 9.
 A corrosive attack has a modifier of x2.0.
 An explosive attack has a modifier of x1.5.
-
-
 
 The required total margin for the damage and stacked damage types is: 9 x 2.0 x 1.5 = 27.
 ```
