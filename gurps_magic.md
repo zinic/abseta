@@ -108,6 +108,236 @@ is not a factor.
 All device modifiers operate on the margin of success of casting a device. The charts and rules below will help you
 determine the device effect's magnitudes.
 
+### Personal Abilities
+
+A successful casting at base energy cost with no skill modifier can add or remove attributes, secondary characteristics,
+advantages, and disadvantages worth a total of 10 character points (positive or negative).
+
+When using margin of success, each point of success adds or removes traits worth 10 character points, with a minimum
+effect of 10 points. Hence, a strengthening effect that succeeds by 2 can raise the subject’s ST (and thus HP) by 2,
+while a curse of stupidity that succeeds by 7 can lower his IQ (and with it, Per and Will) by 3.
+
+#### Basic Attributes
+
+##### Strength
+
+Strength [ST] (±10 CP = ±1 ST)
+
+| Margin | Bonus STR |
+|--------|-----------|
+| 1      | 1         |
+| 1      | 1         |
+| 2      | 2         |
+| 3      | 3         |
+| 4      | 4         |
+| 5      | 5         |
+| 6      | 6         |
+| 7      | 7         |
+| 8      | 8         |
+| 9      | 9         |
+| 10     | 10        |
+| 11     | 11        |
+
+##### Dexterity
+
+Dexterity [DX] (±20 CP = ±1 DX)
+
+| Margin | Bonus DEX |
+|--------|-----------|
+| 0      | 0         |
+| 1      | 0         |
+| 2      | 1         |
+| 3      | 1         |
+| 4      | 2         |
+| 5      | 2         |
+| 6      | 3         |
+| 7      | 3         |
+| 8      | 4         |
+| 9      | 4         |
+| 10     | 5         |
+| 11     | 5         |
+
+##### Intelligence
+
+Intelligence [IQ] (±20 CP = ±1 IQ)
+
+| Margin | Bonus INT |
+|--------|-----------|
+| 0      | 0         |
+| 1      | 0         |
+| 2      | 1         |
+| 3      | 1         |
+| 4      | 2         |
+| 5      | 2         |
+| 6      | 3         |
+| 7      | 3         |
+| 8      | 4         |
+| 9      | 4         |
+| 10     | 5         |
+| 11     | 5         |
+
+##### Health
+
+Health [HT] (±10 CP = ±1 HT)
+
+| Margin | Bonus HT |
+|--------|----------|
+| 0      | 1        |
+| 1      | 1        |
+| 2      | 2        |
+| 3      | 3        |
+| 4      | 4        |
+| 5      | 5        |
+| 6      | 6        |
+| 7      | 7        |
+| 8      | 8        |
+| 9      | 9        |
+| 10     | 10       |
+| 11     | 11       |
+
+#### Damage Resistance
+
+Damage Resistance [DR] (±5 CP = ±2 DR)
+
+| Margin | Damage Resistance |
+|--------|-------------------|
+| 0      | 2 DR              |
+| 1      | 2 DR              |
+| 2      | 4 DR              |
+| 3      | 6 DR              |
+| 4      | 8 DR              |
+| 5      | 10 DR             |
+| 6      | 12 DR             |
+| 7      | 14 DR             |
+| 8      | 16 DR             |
+| 9      | 18 DR             |
+| 10     | 20 DR             |
+| 11     | 22 DR             |
+
+#### Secondary Attributes
+
+##### Hit Points
+
+Hit Points [HP] (±2 CP per ±1 HP)
+
+| Margin | Bonus HP |
+|--------|----------|
+| 0      | 5        |
+| 1      | 5        |
+| 2      | 10       |
+| 3      | 10       |
+| 4      | 15       |
+| 5      | 15       |
+| 6      | 20       |
+| 7      | 20       |
+| 8      | 25       |
+| 9      | 25       |
+| 10     | 30       |
+| 11     | 30       |
+
+##### Will
+
+Will [Will] (±5 CP per ±1 Will)
+
+| Margin | Bonus Will |
+|--------|------------|
+| 0      | 2          |
+| 1      | 2          |
+| 2      | 4          |
+| 3      | 4          |
+| 4      | 6          |
+| 5      | 6          |
+| 6      | 8          |
+| 7      | 8          |
+| 8      | 10         |
+| 9      | 10         |
+| 10     | 12         |
+| 11     | 12         |
+
+##### Perception
+
+Perception [Per] (±5 CP per ±1 Perception)
+
+| Margin | Bonus Per |
+|--------|-----------|
+| 0      | 2         |
+| 1      | 2         |
+| 2      | 4         |
+| 3      | 4         |
+| 4      | 6         |
+| 5      | 6         |
+| 6      | 8         |
+| 7      | 8         |
+| 8      | 10        |
+| 9      | 10        |
+| 10     | 12        |
+| 11     | 12        |
+
+##### Fatigue Points
+
+Fatigue Points [FP] (±3 CP per ±1 FP)
+
+| Margin | Bonus FP |
+|--------|----------|
+| 0      | 3        |
+| 1      | 3        |
+| 2      | 6        |
+| 3      | 10       |
+| 4      | 13       |
+| 5      | 16       |
+| 6      | 20       |
+| 7      | 23       |
+| 8      | 26       |
+| 9      | 30       |
+| 10     | 33       |
+| 11     | 36       |
+
+##### Basic Speed
+
+Basic Speed [Basic Speed] (±5 CP per ±0.25 Speed)
+
+| Margin | Bonus Basic Speed |
+|--------|-------------------|
+| 0      | 0.5               |
+| 1      | 0.5               |
+| 2      | 1.0               |
+| 3      | 1.0               |
+| 4      | 1.5               |
+| 5      | 1.5               |
+| 6      | 2.0               |
+| 7      | 2.0               |
+| 8      | 2.5               |
+| 9      | 2.5               |
+| 10     | 3.0               |
+| 11     | 3.0               |
+
+##### Basic Move
+
+Basic Move [Basic Move] (±5 CP per ±1 yard/second)
+
+| Margin | Bonus Basic Move |
+|--------|------------------|
+| 0      | 2                |
+| 1      | 2                |
+| 2      | 4                |
+| 3      | 6                |
+| 4      | 8                |
+| 5      | 10               |
+| 6      | 12               |
+| 7      | 14               |
+| 8      | 16               |
+| 9      | 18               |
+| 10     | 20               |
+| 11     | 22               |
+
+##### Perception
+
+##### Fatigue Points
+
+##### Basic Speed
+
+##### Basic Move
+
 ### Damage
 
 Damage is defined in Thaum pg. 182 however the below chart can be used for most cases for margin:
