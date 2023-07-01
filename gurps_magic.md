@@ -299,14 +299,6 @@ Basic Move [Basic Move] (±5 CP per ±1 yard/second)
 | 10     | 20               |
 | 11     | 22               |
 
-##### Perception
-
-##### Fatigue Points
-
-##### Basic Speed
-
-##### Basic Move
-
 ### Damage
 
 Damage is defined in Thaum pg. 182 however the below chart can be used for most cases for margin:
