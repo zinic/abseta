@@ -278,12 +278,8 @@ phrases.
 Move gives directional motion at any scale to a given set of nouns.
 
 The move verb is suitable for short-term effects only. Its simplicity is both a boon and a detriment when it comes to
-creating more complicated devices. Deffects with a longer duration must include `Strengthen` as an additional verb.
-
-if you are invis totally then no light reaches you and you have the same penalty as total darkness
-shaping it is a thing and that costs the same as the penalty of the area shaped i.e. only eyes exposed is -9, only
-face (including eyes) is -5, not much reason for other things, but if therir were it woudl follow the same rules as fine
-control is "harder"
+creating more complicated devices. Devices effects with a longer duration must include `Strengthen` as an additional
+verb.
 
 #### Protect
 
