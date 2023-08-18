@@ -122,13 +122,6 @@ Inclusions from the following books or sections require approval before being us
 Casters may offset the Energy Cost of a spell by Burning HP - Magic pg. 8. Each point of health converted reduces the
 ER by 2 instead of the default of 1.
 
-### Enchantment
-
-Enchantment, known in-settings as "Schema Embedding" is the most common form of device proliferation and utilization.
-
-* See Enchantment - Magic pg. 18
-* Symbol Magic - Magic pg. 207.
-
 #### Restricted Spell Guidance
 
 Below are examples of spells that are not thematic for the setting. Ideas that stray close to any of the spells
@@ -148,7 +141,7 @@ enumerated below should be reconsidered or, if attempted, may fail outright.
 
 ## Syntactic Magic of Abseta
 
-* All magic use except for schematic device invocation requires Magery 1.
+* All magic use except for schematic device invocation requires Magery 0.
 
 ### Tally and Threshold
 
@@ -219,11 +212,29 @@ relevant skill for a noun once.
 
 ### Schematic Writing and Enchantment
 
+Enchantment, known in-settings as "Schema Embedding" is the most common form of device proliferation and utilization.
+
 Enchantment in Abseta uses the Symbolic Enchantment rules found in - Thaumatology pg. 175
 
-#### Additional Rules
-
 * Magic Items - Basic pg. 480+
+* See Enchantment - Magic pg. 18
+* Enchantment Spells - Magic pg. 58
+* Symbol Magic - Magic pg. 207.
+
+#### Calculating Magic Item Energy Cost Using Symbolics
+
+Calculate the tally point cost for the symbol effect – as per Energy Cost (Thaumatology pg. 175) – and then multiply
+this by 250 for the enchanting energy cost. Restrictions can modify this in similar ways to spell-based enchantments
+limited by spells such as Bane. For example, for a sword enchanted so that its magic only works against giants, divide
+energy cost by 3 and then increase it by 100.
+
+##### Example: Energy Reserve Storage
+
+Energy reserve storage requires two symbols: `Meta` and `Transform`. Taking into account the relevant multipliers this
+comes out to: `Meta (Tally Point Cost 2)` * `Transform (Tally Point Cost 2)` * `250` = `1000 Energy Cost`.
+
+#### Additional Enchanting Rule References
+
 * Quick and Dirty - Basic pg. 481
 * Slow and Sure - Basic pg. 481
 * Enchanters must use the [Meta](#meta) noun as part of the enchantment to represent Power - Basic pg. 481.
@@ -265,6 +276,14 @@ phrases.
 #### Move
 
 Move gives directional motion at any scale to a given set of nouns.
+
+The move verb is suitable for short-term effects only. Its simplicity is both a boon and a detriment when it comes to
+creating more complicated devices. Deffects with a longer duration must include `Strengthen` as an additional verb.
+
+if you are invis totally then no light reaches you and you have the same penalty as total darkness
+shaping it is a thing and that costs the same as the penalty of the area shaped i.e. only eyes exposed is -9, only
+face (including eyes) is -5, not much reason for other things, but if therir were it woudl follow the same rules as fine
+control is "harder"
 
 #### Protect
 
@@ -362,6 +381,11 @@ The `Electromagnetic` noun is one of the two most common nouns.
 **Usage**
 
 This noun has no additional requirements.
+
+#### Notes on Bending Light
+
+Bending light in such a way in order to hide or render something invisible will subject anything within the effect to
+the same penalty as being in Total Darkness.
 
 ### Gravity
 

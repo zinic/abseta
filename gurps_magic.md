@@ -34,7 +34,7 @@ The penalty is **-3 per halving of casting time** (round time up).
 
 Reduction of casting time below one second is allowed for producing emergency blocking effects. These instant device
 activations require the caster take any negatives from reducing the casting time of the device to **1 second** and then
-apply an additiona **-2**.
+apply an additional **-2**.
 
 ## Distractions
 
@@ -56,13 +56,13 @@ Using multiple devices at the same time incurs the following penalties:
 * a **-1** per other device you have at the moment. A device that lasts permanently (as indicated in the device
   description) does not carry a penalty.
 
-## Life Suck
+## Extracting Energy Reserve from Targets
 
 Meta + Transform
 
-Drains up to 10 points from the creature's combined HT and WIL.
+Drains up to 10 points from the target's combined HT and WIL.
 
-* Can be used to pay off tally points.
+* Extracted energy reserve may be used to pay off caster tally points.
 
 ## Maintaining Devices
 
@@ -86,6 +86,34 @@ When using margin of success, each point of success adds or removes traits worth
 effect of 10 points. Hence, a strengthening effect that succeeds by 2 can raise the subject’s ST (and thus HP) by 2,
 while a curse of stupidity that succeeds by 7 can lower his IQ (and with it, Per and Will) by 3.
 
+#### Shaping Effects to Hit Locations
+
+Much like attacks, device effects may target or omit a specific hit locations for a given penalty.
+
+| Location                               | Penalty |
+|----------------------------------------|---------|
+| Eyeslits                               | -10     |
+| Eye                                    | -9      |
+| Neck                                   | -8      |
+| Spine                                  | -8      |
+| Ear                                    | -7      |
+| Nose                                   | -7      |
+| Jaw                                    | -6      |
+| Face                                   | -5      |
+| Limb Joint                             | -5      |
+| Vitals (heart)                         | -5      |
+| Neck                                   | -5      |
+| Melee Weapon (Reach C, Small Firearm)  | -5      |
+| Hand, Foot                             | -4      |
+| Melee Weapon (Reach 1, Medium Firearm) | -4      |
+| Vitals                                 | -3      |
+| Digestive Tract                        | -3      |
+| Pelvis                                 | -3      |
+| Groin                                  | -3      |
+| Weapon (Reach 2, Large Firearm)        | -3      |
+| Abdomen                                | -1      |
+| Chest, Torso                           | 0       |
+
 #### Basic Attributes
 
 ##### Strength
@@ -94,7 +122,7 @@ Strength [ST] (±10 CP = ±1 ST)
 
 | Margin | Bonus STR |
 |--------|-----------|
-| 1      | 1         |
+| 0      | 1         |
 | 1      | 1         |
 | 2      | 2         |
 | 3      | 3         |
@@ -385,6 +413,7 @@ Margin determines the available range of your device.
 #### Notes
 
 Melee, Missile and Blocking devices all have no range.
+
 
 ### Area of Effect
 
